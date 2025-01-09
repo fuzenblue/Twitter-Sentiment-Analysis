@@ -1,3 +1,3 @@
 # Twitter-Sentiment-Analysis
 
-No fine-down has been performed yet.
+No fine-tuning has been performed yet.
